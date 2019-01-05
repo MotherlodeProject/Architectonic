@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "architectonic:block/wide_jungle_planks"
+  }
+}

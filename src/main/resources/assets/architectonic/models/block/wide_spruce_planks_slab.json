@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "architectonic:block/wide_spruce_planks",
+    "top": "architectonic:block/wide_spruce_planks",
+    "side": "architectonic:block/wide_spruce_planks"
+  }
+}

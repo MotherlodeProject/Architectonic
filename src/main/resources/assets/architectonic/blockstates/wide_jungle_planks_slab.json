@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "architectonic:block/wide_jungle_planks_slab"
+    },
+    "type=top": {
+      "model": "architectonic:block/wide_jungle_planks_slab_top"
+    },
+    "type=double": {
+      "model": "architectonic:block/wide_jungle_planks"
+    }
+  }
+}

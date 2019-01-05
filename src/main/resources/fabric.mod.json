@@ -1,0 +1,12 @@
+{
+  "id": "architectonic",
+  "name": "Architechtonic",
+  "version": "$version",
+  "side": "universal",
+  "initializers": [
+	"io.github.motherlodeproject.architectonic.registry.ArchitectonicRegistry"
+  ],
+  "description": "Adds some cool decoration stuff and things",
+  "mixins": {
+  }
+}

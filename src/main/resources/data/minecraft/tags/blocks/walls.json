@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+	"architectonic:stone_tiles_wall",
+	"architectonic:granite_bricks_wall",
+	"architectonic:granite_cobblestone_wall",
+	"architectonic:diorite_cobblestone_wall",
+	"architectonic:polished_stone_wall",
+	"architectonic:small_sandstone_bricks_wall",
+	"architectonic:prismarine_bricks_wall",
+	"architectonic:polished_andesite_wall",
+	"architectonic:polished_granite_wall",
+	"architectonic:dark_prismarine_wall",
+	"architectonic:polished_diorite_wall",
+	"architectonic:sandstone_bricks_wall",
+	"architectonic:small_granite_bricks_wall",
+	"architectonic:andesite_bricks_wall",
+	"architectonic:andesite_cobblestone_wall",
+	"architectonic:small_stone_tiles_wall",
+	"architectonic:mud_bricks_wall",
+	"architectonic:small_stone_bricks_wall",
+	"architectonic:diorite_bricks_wall",
+	"architectonic:small_diorite_bricks_wall",
+	"architectonic:small_andesite_bricks_wall",
+	"architectonic:small_mossy_stone_bricks_wall"
+  ]
+}

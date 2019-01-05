@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "architectonic:block/dark_oak_carved_wood_slab"
+    },
+    "type=top": {
+      "model": "architectonic:block/dark_oak_carved_wood_slab_top"
+    },
+    "type=double": {
+      "model": "architectonic:block/dark_oak_carved_wood"
+    }
+  }
+}

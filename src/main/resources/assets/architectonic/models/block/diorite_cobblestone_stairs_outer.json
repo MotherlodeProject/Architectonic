@@ -1,0 +1,8 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "architectonic:block/diorite_cobblestone",
+    "top": "architectonic:block/diorite_cobblestone",
+    "side": "architectonic:block/diorite_cobblestone"
+  }
+}

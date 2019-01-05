@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "architectonic:block/sugar_cane_block_slab"
+    },
+    "type=top": {
+      "model": "architectonic:block/sugar_cane_block_slab_top"
+    },
+    "type=double": {
+      "model": "architectonic:block/sugar_cane_block"
+    }
+  }
+}

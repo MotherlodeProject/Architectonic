@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "architectonic:block/bamboo_planks",
+    "top": "architectonic:block/bamboo_planks",
+    "side": "architectonic:block/bamboo_planks"
+  }
+}

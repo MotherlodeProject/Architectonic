@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=y": {
+      "model": "architectonic:block/thatch"
+    },
+    "axis=z": {
+      "model": "architectonic:block/thatch",
+      "x": 90
+    },
+    "axis=x": {
+      "model": "architectonic:block/thatch",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=y": {
+      "model": "architectonic:block/diorite_pillar"
+    },
+    "axis=z": {
+      "model": "architectonic:block/diorite_pillar",
+      "x": 90
+    },
+    "axis=x": {
+      "model": "architectonic:block/diorite_pillar",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

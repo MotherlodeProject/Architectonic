@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=y": {
+      "model": "architectonic:block/stone_pillar"
+    },
+    "axis=z": {
+      "model": "architectonic:block/stone_pillar",
+      "x": 90
+    },
+    "axis=x": {
+      "model": "architectonic:block/stone_pillar",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

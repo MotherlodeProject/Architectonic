@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "architectonic:block/andesite_cobblestone",
+    "top": "architectonic:block/andesite_cobblestone",
+    "side": "architectonic:block/andesite_cobblestone"
+  }
+}

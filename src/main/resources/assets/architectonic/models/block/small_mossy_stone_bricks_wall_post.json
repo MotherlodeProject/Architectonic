@@ -1,0 +1,6 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "architectonic:block/small_mossy_stone_bricks"
+  }
+}

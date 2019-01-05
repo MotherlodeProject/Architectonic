@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "architectonic:block/jungle_carved_wood_slab"
+    },
+    "type=top": {
+      "model": "architectonic:block/jungle_carved_wood_slab_top"
+    },
+    "type=double": {
+      "model": "architectonic:block/jungle_carved_wood"
+    }
+  }
+}

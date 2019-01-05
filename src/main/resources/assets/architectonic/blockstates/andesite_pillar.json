@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=y": {
+      "model": "architectonic:block/andesite_pillar"
+    },
+    "axis=z": {
+      "model": "architectonic:block/andesite_pillar",
+      "x": 90
+    },
+    "axis=x": {
+      "model": "architectonic:block/andesite_pillar",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

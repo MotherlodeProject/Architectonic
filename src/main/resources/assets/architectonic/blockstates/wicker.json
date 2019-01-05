@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=y": {
+      "model": "architectonic:block/wicker"
+    },
+    "axis=z": {
+      "model": "architectonic:block/wicker",
+      "x": 90
+    },
+    "axis=x": {
+      "model": "architectonic:block/wicker",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

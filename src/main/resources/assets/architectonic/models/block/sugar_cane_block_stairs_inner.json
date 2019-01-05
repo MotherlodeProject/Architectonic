@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "architectonic:block/sugar_cane_block",
+    "top": "architectonic:block/sugar_cane_block",
+    "side": "architectonic:block/sugar_cane_block"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "architectonic:block/wide_dark_oak_planks",
+    "top": "architectonic:block/wide_dark_oak_planks",
+    "side": "architectonic:block/wide_dark_oak_planks"
+  }
+}

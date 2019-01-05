@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "architectonic:block/wide_jungle_planks",
+    "top": "architectonic:block/wide_jungle_planks",
+    "side": "architectonic:block/wide_jungle_planks"
+  }
+}
