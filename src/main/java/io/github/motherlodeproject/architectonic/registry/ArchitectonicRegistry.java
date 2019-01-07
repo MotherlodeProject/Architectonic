@@ -6,12 +6,12 @@ import net.minecraft.item.Item;
 import net.minecraft.util.Identifier;
 import net.minecraft.util.registry.Registry;
 
-import java.util.HashMap;
+import java.util.LinkedHashMap;
 import java.util.Map;
 
 public class ArchitectonicRegistry implements ModInitializer {
-	public static final Map<Identifier, Block> BLOCKS = new HashMap<>();
-	public static final Map<Identifier, Item> ITEMS = new HashMap<>();
+	public static final Map<Identifier, Block> BLOCKS = new LinkedHashMap<>();
+	public static final Map<Identifier, Item> ITEMS = new LinkedHashMap<>();
 
 	@Override
 	public void onInitialize() {

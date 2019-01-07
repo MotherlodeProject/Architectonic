@@ -1,6 +1,5 @@
 package io.github.motherlodeproject.architectonic.generator;
 
-import com.google.common.collect.Lists;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.JsonParser;
@@ -176,52 +175,6 @@ public class ResourceGenerator {
 	public static final List<String> PILLARS = new ArrayList<>();
 
 	static {
-		WALLS.addAll(Lists.newArrayList("prismarine_bricks", "dark_prismarine"));
-
-		addWithStairsAndSlab("polished_stone");
-		addWithStairsSlabAndWall("stone_tiles");
-		addWithStairsSlabAndWall("small_stone_tiles");
-		addWithStairsSlabAndWall("small_stone_bricks");
-		addWithStairsSlabAndWall("small_mossy_stone_bricks");
-		PILLARS.add("stone_pillar");
-
-		addWithStairsSlabAndWall("granite_cobblestone");
-		addWithStairsSlabAndWall("granite_bricks");
-		addWithStairsSlabAndWall("small_granite_bricks");
-		PILLARS.add("granite_pillar");
-		addWithStairsSlabAndWall("diorite_cobblestone");
-		addWithStairsSlabAndWall("diorite_bricks");
-		addWithStairsSlabAndWall("small_diorite_bricks");
-		PILLARS.add("diorite_pillar");
-		addWithStairsSlabAndWall("andesite_cobblestone");
-		addWithStairsSlabAndWall("andesite_bricks");
-		addWithStairsSlabAndWall("small_andesite_bricks");
-		PILLARS.add("andesite_pillar");
-
-		addWithStairsSlabAndWall("sandstone_bricks");
-		addWithStairsSlabAndWall("small_sandstone_bricks");
-
-		CUBES.add("dry_dirt");
-		addWithStairsSlabAndWall("mud_bricks");
-
-		PILLARS.add("wicker");
-		PILLARS.add("thatch");
-		addWithStairsAndSlab("sugar_cane_block");
-		addWithStairsAndSlab("bamboo_block");
-		addWithStairsAndSlab("bamboo_planks");
-
-		addWithStairsAndSlab("oak_carved_wood");
-		addWithStairsAndSlab("wide_oak_planks");
-		addWithStairsAndSlab("spruce_carved_wood");
-		addWithStairsAndSlab("wide_spruce_planks");
-		addWithStairsAndSlab("birch_carved_wood");
-		addWithStairsAndSlab("wide_birch_planks");
-		addWithStairsAndSlab("jungle_carved_wood");
-		addWithStairsAndSlab("wide_jungle_planks");
-		addWithStairsAndSlab("acacia_carved_wood");
-		addWithStairsAndSlab("wide_acacia_planks");
-		addWithStairsAndSlab("dark_oak_carved_wood");
-		addWithStairsAndSlab("wide_dark_oak_planks");
 
 	}
 

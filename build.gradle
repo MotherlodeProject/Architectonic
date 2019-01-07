@@ -81,11 +81,11 @@ uploadArchives {
 					name project.archivesBaseName
 					packaging 'jar'
 					description project.archivesBaseName
-					url 'https://github.com/MotherlodeMod/Architectonic'
+					url 'https://github.com/MotherlodeProject/Architectonic'
 					scm {
-						url 'https://github.com/MotherlodeMod/Architectonic'
-						connection 'scm:git:git@github.com:MotherlodeMod/Architectonic.git'
-						developerConnection 'scm:git:git@github.com:MotherlodeMod/Architectonic.git'
+						url 'https://github.com/MotherlodeProject/Architectonic'
+						connection 'scm:git:git@github.com:MotherlodeProject/Architectonic.git'
+						developerConnection 'scm:git:git@github.com:MotherlodeProject/Architectonic.git'
 					}
 				}
 			}
